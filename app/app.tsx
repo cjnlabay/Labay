@@ -1,14 +1,3 @@
-// import React from "react";
-// import { NavigationContainer } from "@react-navigation/native";
-// import Index from "./index";
-
-// export default function App() {
-//   return (
-//     <NavigationContainer>
-//       <Index />
-//     </NavigationContainer>
-//   );
-// }
 import { createStackNavigator } from "@react-navigation/stack";
 import { NavigationContainer } from "@react-navigation/native";
 import LoginScreen from "./LoginScreen";
